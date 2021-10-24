@@ -1,17 +1,9 @@
+
 {
     "provider": "cloudinary",
     "providerOptions": {
-        "cloud_name": "drpuerta",
-        "api_key:":"962244132931739",
-        "api_secret": "cn0lRn7GJgUtjiHUp_bt5Ac0kuA"
+        "cloud_name": "",
+        "api_key:":"",
+        "api_secret": ""
     }
 }
-
-// {
-//     "provider": "cloudinary",
-//     "providerOptions": {
-//         "cloud_name": "",
-//         "api_key:":"",
-//         "api_secret": ""
-//     }
-// }
